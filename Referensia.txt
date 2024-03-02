@@ -1,0 +1,22 @@
+1. Teknika Encoding Categorial Hela-fatin bazeia ba np.select:
+
+https://medium.com/@michalwesleymnach/the-complete-guide-to-create-columns-based-on-multiple-conditions-in-pandas-dataframes-eedf2c0392a6#:~:text=%23%20List%20of%20conditions,choices%2C%20%22ERROR%22)
+
+2. Teknika Encoding MultiLabelColumn:
+
+https://stackoverflow.com/questions/24458645/label-encoding-across-multiple-columns-in-scikit-learn#:~:text=Creating%20a%20custom%20encoder%20involves%20simply%20creating%20a%20class%20that%20responds%20to%20the%20fit()%2C%20transform()%2C%20and%20fit_transform()%20methods.%20In%20your%20case%2C%20a%20good%20start%20might%20be%20something%20like%20this%3A
+
+3. (Boxplot, Violin, Histogram, Barplot, Scatter, Catplot):
+
+https://seaborn.pydata.org/examples/index.html  (Seaborn)
+
+https://matplotlib.org/  (Matplotlib)
+
+4. Teknika Encoding Categorial Valor:
+
+   File Survey Performance Student ne'ebe Professor fahe mai
+
+5. Linear Regression (Multi):
+
+   https://datagy.io/python-sklearn-linear-regression/#:~:text=%23%20Creating%20new%20variables%0Adf,The%20rmse%20is%3A%20%206177.07010254
+
